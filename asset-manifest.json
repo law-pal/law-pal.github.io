@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/js/main.42b8a455.chunk.js",
+    "main.js.map": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/js/main.42b8a455.chunk.js.map",
+    "runtime-main.js": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/js/runtime-main.85015bba.js",
+    "runtime-main.js.map": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/js/runtime-main.85015bba.js.map",
+    "static/js/2.1c800261.chunk.js": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/js/2.1c800261.chunk.js",
+    "static/js/2.1c800261.chunk.js.map": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/js/2.1c800261.chunk.js.map",
+    "index.html": "/law-pal/Beauty-Quotient.io.git/deploy-react/index.html",
+    "precache-manifest.d707064777a9b9f292126e7954673d71.js": "/law-pal/Beauty-Quotient.io.git/deploy-react/precache-manifest.d707064777a9b9f292126e7954673d71.js",
+    "service-worker.js": "/law-pal/Beauty-Quotient.io.git/deploy-react/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.1c800261.chunk.js.LICENSE.txt": "/law-pal/Beauty-Quotient.io.git/deploy-react/static/js/2.1c800261.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85015bba.js",
+    "static/js/2.1c800261.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.42b8a455.chunk.js"
+  ]
+}
